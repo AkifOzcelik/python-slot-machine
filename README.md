@@ -1,6 +1,6 @@
 # Slot Machine Game
 
-This Python script simulates a simple slot machine game, where players can deposit money, bet on multiple lines, spin the slot machine, and win or lose money based on the outcome of the spin.
+This Python script simulates a simple slot machine game, where players can deposit money, bet on multiple lines, spin the slot machine, and win or lose money based on the outcome of the spin. This game does not encourage or recommend gambling. Gambling is a bad addiction and will cause you to lose your money. This code should be used for educational purposes only. I do not accept liability in any case.
 
 ## Game Configuration
 
