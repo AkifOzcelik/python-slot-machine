@@ -60,11 +60,9 @@ Handles the main game logic. It takes the player's balance as input and prompts 
 
 The `main()` function is the entry point of the game. It starts by asking the player for an initial deposit and then enters a loop where the player can choose to spin the slot machine or quit the game. The player's balance is updated after each spin, and the game continues until the player chooses to quit. The final balance is displayed when the game ends.
 
-## Contact Information
-
-For questions or feedback, please feel free to contact the developer:
-
 ## Meta
+
+For questions or feedback, please feel free to contact the me:
 
 Akif Özcelik – [Twitter](https://twitter.com/akifzclk) – [Instagram](https://www.instagram.com/iamakifzclk/) - [My Discord server](https://discord.gg/6PRazmg9fs) - akifozcelik.de@gmail.com
 
