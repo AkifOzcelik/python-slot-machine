@@ -66,7 +66,7 @@ For questions or feedback, please feel free to contact the developer:
 
 ## Meta
 
-Akif Özcelik – [Twitter](https://twitter.com/akifzclk) – akifozcelik.de@gmail.com - [Instagram](https://www.instagram.com/iamakifzclk/) - [My Discord server](https://discord.gg/6PRazmg9fs)
+Akif Özcelik – [Twitter](https://twitter.com/akifzclk) – [Instagram](https://www.instagram.com/iamakifzclk/) - [My Discord server](https://discord.gg/6PRazmg9fs) - akifozcelik.de@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
