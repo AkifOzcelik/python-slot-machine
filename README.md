@@ -66,10 +66,8 @@ For questions or feedback, please feel free to contact the developer:
 
 ## Meta
 
-Akif Özcelik – [@akifzclk](https://twitter.com/akifzclk) – akifozcelik.de@gmail.com
+Akif Özcelik – [Twitter](https://twitter.com/akifzclk) – akifozcelik.de@gmail.com - [Instagram](https://www.instagram.com/iamakifzclk/) - [My Discord server](https://discord.gg/6PRazmg9fs)
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
 [https://github.com/AkifOzcelik/python-slot-machine](https://github.com/AkifOzcelik/)
-
-Enjoy playing the slot machine game!
